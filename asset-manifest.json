@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/markwang/static/css/main.8703187d.css",
-    "main.js": "/markwang/static/js/main.2db4ffc2.js",
+    "main.js": "/markwang/static/js/main.97288a84.js",
     "static/media/headshot.png": "/markwang/static/media/headshot.6d35f067828d37d2d77c.png",
     "static/media/safecycle.png": "/markwang/static/media/safecycle.f6809c383e8bb37be96d.png",
     "static/media/applestockproject.png": "/markwang/static/media/applestockproject.8ceef35c83f2b152338d.png",
@@ -17,10 +17,10 @@
     "static/media/linkedinlogo.png": "/markwang/static/media/linkedinlogo.df3f373c358bcfdd92bb.png",
     "index.html": "/markwang/index.html",
     "main.8703187d.css.map": "/markwang/static/css/main.8703187d.css.map",
-    "main.2db4ffc2.js.map": "/markwang/static/js/main.2db4ffc2.js.map"
+    "main.97288a84.js.map": "/markwang/static/js/main.97288a84.js.map"
   },
   "entrypoints": [
     "static/css/main.8703187d.css",
-    "static/js/main.2db4ffc2.js"
+    "static/js/main.97288a84.js"
   ]
 }

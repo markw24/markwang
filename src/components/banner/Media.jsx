@@ -44,7 +44,7 @@ const Media = () => {
         </div>
       </div>
       <div>
-        <h2 className="text-base font-bold mb-4">proficient technical tools</h2>
+        <h2 className="text-base font-bold mb-4">technical tools</h2>
         <div className="flex gap-4">
           <span className="bannerIcon">
             <FaReact />

@@ -27,7 +27,7 @@ const Navbar = () => {
 
         <ul className="text-right hidden mdl:inline-flex items-center gap-6 lg:gap-10 hover:text-cyan-400 duration-300">
           <a
-            href="https://drive.google.com/file/d/1HDRz2_NLd5C575ikcS1bwtcj6DisEC2J/view?usp=sharing"
+            href="https://drive.google.com/file/d/1gKN-zehRgljTvyK45syUy3qVM037R9sV/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >
@@ -63,7 +63,7 @@ const Navbar = () => {
           <div className="w-[20%] fixed h-screen overflow-scroll absolute left-0 bg-gray-900 p-4 scrollbar-hide">
             <ul className="flex flex-col gap-6 mt-20 mr-1 items-center mb-20">
               <a
-                href="https://drive.google.com/file/d/1HDRz2_NLd5C575ikcS1bwtcj6DisEC2J/view?usp=sharing"
+                href="https://drive.google.com/file/d/1gKN-zehRgljTvyK45syUy3qVM037R9sV/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
               >

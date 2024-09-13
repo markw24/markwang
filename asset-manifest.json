@@ -1,26 +1,27 @@
 {
   "files": {
-    "main.css": "/markwang/static/css/main.8703187d.css",
-    "main.js": "/markwang/static/js/main.305537d0.js",
-    "static/media/headshot.png": "/markwang/static/media/headshot.6d35f067828d37d2d77c.png",
+    "main.css": "/markwang/static/css/main.ea5bfd98.css",
+    "main.js": "/markwang/static/js/main.a030847a.js",
+    "static/media/IMG_4092.jpeg": "/markwang/static/media/IMG_4092.d2b5c4ac60c38af7c915.jpeg",
     "static/media/safecycle.png": "/markwang/static/media/safecycle.f6809c383e8bb37be96d.png",
     "static/media/applestockproject.png": "/markwang/static/media/applestockproject.8ceef35c83f2b152338d.png",
+    "static/media/Screenshot 2024-09-13 at 11.27.20 AM.png": "/markwang/static/media/Screenshot 2024-09-13 at 11.27.20 AM.eacac69a6c8c18725728.png",
     "static/media/qmind_logo.png": "/markwang/static/media/qmind_logo.91161699e3f355d1c8b1.png",
     "static/media/mark-logo.png": "/markwang/static/media/mark-logo.0dc5eb654f584bf3fead.png",
+    "static/media/alawalogo.png": "/markwang/static/media/alawalogo.e0a75537cef65ad597c8.png",
     "static/media/lightelevate.png": "/markwang/static/media/lightelevate.8d23dc41cf49e2adf113.png",
     "static/media/python-logo.png": "/markwang/static/media/python-logo.4e12cccfcddb2a99b14a.png",
     "static/media/spreadsheetproject.png": "/markwang/static/media/spreadsheetproject.2f8969e2ad30708b4154.png",
     "static/media/hackathon.png": "/markwang/static/media/hackathon.14128f2d18b83d6c4f86.png",
-    "static/media/autodrive.png": "/markwang/static/media/autodrive.ed5853a8c2c15179f707.png",
     "static/media/quantt.png": "/markwang/static/media/quantt.51ff692125f2a7ce047a.png",
     "static/media/smith eng.png": "/markwang/static/media/smith eng.0ffc8f1be33dd835deed.png",
     "static/media/linkedinlogo.png": "/markwang/static/media/linkedinlogo.df3f373c358bcfdd92bb.png",
     "index.html": "/markwang/index.html",
-    "main.8703187d.css.map": "/markwang/static/css/main.8703187d.css.map",
-    "main.305537d0.js.map": "/markwang/static/js/main.305537d0.js.map"
+    "main.ea5bfd98.css.map": "/markwang/static/css/main.ea5bfd98.css.map",
+    "main.a030847a.js.map": "/markwang/static/js/main.a030847a.js.map"
   },
   "entrypoints": [
-    "static/css/main.8703187d.css",
-    "static/js/main.305537d0.js"
+    "static/css/main.ea5bfd98.css",
+    "static/js/main.a030847a.js"
   ]
 }

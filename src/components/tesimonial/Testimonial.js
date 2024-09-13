@@ -4,9 +4,10 @@ import { RiStarFill } from "react-icons/ri";
 import { HiArrowRight, HiArrowLeft } from "react-icons/hi";
 import Title from "../layouts/Title";
 import applestock from "./applestockproject.png";
-import QmindHack from "./hackathon.png";
+import Vita from "./Screenshot 2024-09-13 at 11.27.20 AM.png";
 import safecycle from "./safecycle.png";
 import excel from "./spreadsheetproject.png";
+import QmindHack from "./hackathon.png";
 
 function SampleNextArrow(props) {
   const { onClick } = props;
@@ -104,6 +105,48 @@ const Testimonial = () => {
       <div className="flex flex-col p-1 justify-center max-w-full sm:max-w-2xl md:max-w-4xl lg:max-w-6xl mx-auto">
         {/* ================ Slider One ================== */}
         <Slider {...settings}>
+          <div className="flex items-center justify-center">
+            <div className="bg-black">
+              <div className="w-full h-full flex flex-col lgl:flex-row justify-between pt-5">
+                <div className="w-full lgl:w-[50%] h-full bg-black p-8 rounded-lg flex flex-col md:flex-row lgl:flex-col gap-8 justify-center md:justify-start">
+                  <a
+                    href="https://github.com/markw24/vitahome"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                  >
+                    <img
+                      className="md:h-40 md:w-90 lgl:h-72 mt-5 rounded-lg justify-center"
+                      src={Vita}
+                      alt="Project Two"
+                    />
+                  </a>
+                </div>
+                <div className="w-full lgl:w-[60%] h-[30] flex flex-row justify-between">
+                  <div className="w-full h-[100%] bg-black rounded-lg pt-[1] lgl:p-8 flex flex-col gap-4 lgl:gap-8 justify-center items-center">
+                    <div className="flex flex-col text-center justify-between lgl:items-center py-6 border-b-2 border-b-white-500">
+                      <div>
+                        <h3 className="text-xl lgl:text-2xl font-medium tracking-wide">
+                          Vita Home
+                        </h3>
+                        <p className="text-base text-gray-400 mt-3">
+                          Made through Next.js and MySQL
+                        </p>
+                      </div>
+                    </div>
+                    <p className="text-base font-titleFont text-gray-400 font-medium tracking-wide leading-6">
+                      Developed a full-stack web application named Vita Home,
+                      utilizing Next.js & MySQL to manage a comprehensive
+                      database of equipment and suppliers. The site recommends
+                      appropriate equipment based on user needs identified from
+                      assessment tests
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+
+          {/* ================ Slider Two ================== */}
           <div className="flex items-center justify-center">
             <div className="bg-black">
               <div className="w-full h-full flex flex-col lgl:flex-row justify-between pt-5">

@@ -4,7 +4,7 @@ import reactLogo from "./reactlogo.jpeg";
 import pythonLogo from "./python-logo.png";
 import QMIND from "./qmind_logo.png";
 import QUANTT from "./quantt.png";
-import AUTO from "./autodrive.png";
+import ALAWA from "./alawalogo.png";
 import TKS from "./tksnew.png";
 import QUBE from "./QUBE.png";
 import elevate from "./lightelevate.png";
@@ -60,14 +60,14 @@ const Skills = () => {
           </div>
         </div>
         <div class="card">
-          <img className="card__image" src={AUTO} alt="Card Image" />
+          <img className="card__image" src={ALAWA} alt="Card Image" />
           <div class="card__content">
-            <p class="card__title">Queen's AutoDrive</p>
+            <p class="card__title">Alawa Financial Technology Company</p>
             <p class="card__description">
-              Developed a level 4 autonomous vehicle in collaboration with
-              General Motors, worked on the CAN team (controller area network)
-              and developed a state machine to send important messages using
-              MATLAB Stateflow and Simulink, primarily working in C++
+              Optimized pitch resources and refined key messaging, leading to a
+              25% increase in investor interest, while also enhancing the user
+              experience through front-end improvements that resulted in a 20%
+              increase in customer satisfaction.
             </p>
           </div>
         </div>
